@@ -1,0 +1,22 @@
+crowd\_count.transforms package
+===============================
+
+Submodules
+----------
+
+crowd\_count.transforms.transforms module
+-----------------------------------------
+
+.. automodule:: crowd_count.transforms.transforms
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: crowd_count.transforms
+   :members:
+   :undoc-members:
+   :show-inheritance:

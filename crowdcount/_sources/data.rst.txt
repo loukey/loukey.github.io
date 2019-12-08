@@ -1,0 +1,6 @@
+crowdcount.data
+===============
+
+.. currentmodule:: crowdcount.data
+
+.. autoclass:: ShanghaiTechDataset
